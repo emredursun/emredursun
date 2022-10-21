@@ -22,9 +22,9 @@
 - 👋 Hi, I am a Software Automation Test Engineer from the Netherlands. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for testing web applications.
 - :zap: I have solid experience with Automated Testing, Selenium WebDriver, Cucumber BDD, and API Testing tolls.
-- :seedling: Exploring New Technologies And Tools.
+- 🌱 Exploring New Technologies And Tools.
 - 👀 I'm interested in playing tennis and visiting unexplored places.
-- 🌱 I'm crazy about unusual and brilliant ideas.
+- 💞️ I'm crazy about unusual and brilliant ideas.
 
 - 📫 How to reach me :   <a href ="https://www.linkedin.com/in/emre-dursun-38b2a0151/" target="_blank">
     <img src="https://help.iubenda.com/wp-content/uploads/2020/05/linkedin-1024x250.png" width="100" alt="LinkedIn Badge"/>
@@ -34,5 +34,5 @@
 <!---
 emredursun/emredursun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-- 💞️ I’m looking to collaborate on ...
+- I’m looking to collaborate on ...
 --->
