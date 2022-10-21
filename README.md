@@ -26,7 +26,9 @@
 - 👀 I'm interested in playing tennis and visiting unexplored places.
 - 🌱 I'm crazy about unusual and brilliant ideas.
 
-- 📫 How to reach me: Linkedin: https://www.linkedin.com/in/emre-dursun-38b2a0151/
+- 📫 How to reach me :   <a href ="https://www.linkedin.com/in/emre-dursun-38b2a0151/" target="_blank">
+    <img src="https://help.iubenda.com/wp-content/uploads/2020/05/linkedin-1024x250.png" width="100" alt="LinkedIn Badge"/>
+  </a>
 
 
 <!---
