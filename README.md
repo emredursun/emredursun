@@ -19,12 +19,11 @@
 ---
 
 ### :man_technologist: About Me : 
-- 👋 Hi, I am a Software Automation Test Engineer from the Netherlands. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for testing web applications.
-- :zap: I have solid experience with Automated Testing, Selenium WebDriver, Cucumber BDD, and API Testing tolls.
-- 🌱 Exploring New Technologies And Tools.
+- 👋 Hi, I am a Software Automation Test Engineer who contributes to front-end and back-end testing of web applications. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- :zap: I have solid experience with Automated Testing, Selenium WebDriver, Cucumber BDD, and API Testing tools.
+- :telescope: Exploring New Technologies And Tools.
 - 👀 I am interested in playing tennis, improving my Dutch speaking skills and visiting unexplored places.
-- 💞️ I'm crazy about unusual and brilliant ideas.
+- 🌱 I'm crazy about unusual and brilliant ideas.
 
 - 📫 How to reach me :   <a href ="https://www.linkedin.com/in/emre-dursun-38b2a0151/" target="_blank">
     <img src="https://help.iubenda.com/wp-content/uploads/2020/05/linkedin-1024x250.png" width="100" alt="LinkedIn Badge"/>
