@@ -30,7 +30,7 @@
     <img src="https://help.iubenda.com/wp-content/uploads/2020/05/linkedin-1024x250.png" width="100" alt="LinkedIn Badge"/>
   </a>
   
-  ---
+---
   
 - ✨ Short Biography :
 <div align="left">
