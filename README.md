@@ -20,7 +20,7 @@
 
 ### :man_technologist: About Me : 
 - 👋 Hi, I am a Software Automation Test Engineer who contributes to front-end and back-end testing of web applications. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :zap: I have solid experience in Data-Driven, Behavior-Driven and Hybrid Framework.
+- :zap: I have solid experience in Data-Driven, Behavior-Driven, and Hybrid Frameworks.
 
 - :telescope: Exploring New Technologies And Tools.
 - 👀 I am interested in playing tennis, improving my Dutch speaking skills and visiting unexplored places.
