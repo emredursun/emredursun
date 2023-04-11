@@ -31,8 +31,9 @@
   </a>
   
 ---
-  
-- ✨ Short Biography :
+
+<h3>✨ Short Biography :</h3>
+
 <div align="left">
      💻 I have expertise in testing both the front-end and back-end of web applications. I have worked with Java, JavaScript, Cucumber - Selenium - Cypress - Robot Framework, Maven, SQL, UI testing, Database testing, and API testing (Postman and Rest Assured Library). I am familiar with Scrum, Jira, Jira-Xray, and Git, and I am also familiar with the Agile methodology and have experience with back-end and front-end development.
 </div>
