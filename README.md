@@ -20,7 +20,11 @@
 
 ### :man_technologist: About Me : 
 - 👋 Hi, I am a Software Automation Test Engineer who contributes to front-end and back-end testing of web applications. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :zap: I have solid experience with Automated Testing, Selenium WebDriver, Cucumber BDD, and API Testing tools.
+- :zap: I have solid experience;
+•	Data-Driven Framework
+•	Behavior-Driven Framework
+•	Hybrid Framework
+
 - :telescope: Exploring New Technologies And Tools.
 - 👀 I am interested in playing tennis, improving my Dutch speaking skills and visiting unexplored places.
 - 🌱 I'm crazy about unusual and brilliant ideas.
@@ -37,7 +41,7 @@
 ---
 
 <div align="left">
-     👨 I enjoy learning about new tools and staying up-to-date with the latest technologies and trends in the industry. Currently, I am focusing on expanding my experience and knowledge in AWS & DevOps environments. I am looking for challenging projects that allow me to utilize my strong technical skills, attention to detail, and collaborative work style to help create high-quality software.
+     :zap: I enjoy learning about new tools and staying up-to-date with the latest technologies and trends in the industry. Currently, I am focusing on expanding my experience and knowledge in AWS & DevOps environments. I am looking for challenging projects that allow me to utilize my strong technical skills, attention to detail, and collaborative work style to help create high-quality software.
 </div>
 
 ---
