@@ -33,7 +33,9 @@
 <div align="left">
      💻 I have expertise in testing both the front-end and back-end of web applications. I have worked with Java, JavaScript, Cucumber - Selenium - Cypress - Robot Framework, Maven, SQL, UI testing, Database testing, and API testing (Postman and Rest Assured Library). I am familiar with Scrum, Jira, Jira-Xray, and Git, and I am also familiar with the Agile methodology and have experience with back-end and front-end development.
 </div>
+
 ---
+
 <div align="left">
      👨 I enjoy learning about new tools and staying up-to-date with the latest technologies and trends in the industry. Currently, I am focusing on expanding my experience and knowledge in AWS & DevOps environments. I am looking for challenging projects that allow me to utilize my strong technical skills, attention to detail, and collaborative work style to help create high-quality software.
 </div>
